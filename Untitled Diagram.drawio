@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T09:48:48.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="xkHwet5Erpg-zhmw5_LG" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T04:24:52.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="u7jbnsXY5K_cT3LGsIoE" version="14.5.1" type="github">
   <diagram id="_T1tT64jIB99ebHlCavc" name="Page-1">
     <mxGraphModel dx="2253" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
         <mxCell id="rkbY2PcGUg7K3WNOYg2x-72" value="Note: PublicToken and PrivateToken don&#39;t need to save on database. &lt;br&gt;Server can validate and parse token to get infor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="500" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DgGmJF3Q3-mLwrnja1q9-1" value="Client had many &lt;br&gt;account access in past" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="DgGmJF3Q3-mLwrnja1q9-1" value="Client has many &lt;br&gt;account access in past" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DgGmJF3Q3-mLwrnja1q9-2" value="Last Row is current client and account access" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
